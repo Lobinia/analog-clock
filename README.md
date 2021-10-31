@@ -3,6 +3,6 @@
 </p>
 
 ## Description
-This is an Analog Clock developed with HTML, CSS and JavaScript. It also include a basic Digital Clock.
+This is an Analog Clock developed with CSS and JavaScript. It also include a basic Digital Clock.
 
 
